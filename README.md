@@ -1,3 +1,33 @@
+### Hey 👋
+
+#### 👷 Check out what I'm currently working on
+
+- [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🪽 An open, easy, fast, NextJs Ecommerce
+
+- [Trello](https://github.com/rajansharmax/NextStoreOS) - 🪽 An open, easy, fast, NextJs Ecommerce
+
+
+#### 🌱 My latest projects
+
+- [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🍺🧟 NextStore Ecommerce NextJs 14
+- [InstagramBot](https://github.com/rajansharmax/instagram-bot) - 🚀 Supercharge Your Instagram Growth with Our Powerful Bot Tool! 🤖
+
+#### 🔭 Extra 
+
+- [Docker PHP Boilerplates](https://github.com/rajansharmax/php-docker-boilerplate) - 🚀 This repository provides a simple and efficient setup for running PHP projects in Docker. Whether you're developing with PHP frameworks like Laravel or Symfony, or just working with plain PHP, this repo helps you quickly set up a development environment with minimal configuration. 🤖
+
+- [Docker ReactJs/NextJs Boilerplates](https://github.com/rajansharmax/react-next-docker-boilerplate) - 🚀 This repository provides a boilerplate setup for building and deploying React and Next.js projects using Docker. It includes Dockerfiles for both static React applications and server-side rendered (SSR) Next.js applications. 🤖
+
+
+#### 📜 My recent [blog posts](https://dunglas.fr)
+
+- Loading...
+
+#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/rajansharmax) (thank you!)
+
+- [rajansharmax](https://github.com/rajansharmax)
+
+
 # 💫 About Me:
 🚀 Passionate Web Alchemist | Crafting Digital Dreams with React.js,NextJs, NodeJs, JS, TS, PHP, Laravel, Symfony, SQL,PSQL, Docker | Certified in B/E. F/E
 
