@@ -4,13 +4,14 @@
 
 - [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🪽 An open, easy, fast, NextJs Ecommerce
 
-- [Trello](https://github.com/rajansharmax/NextStoreOS) - 🪽 An open, easy, fast, NextJs Ecommerce
+- [Trackly Up](https://github.com/rajansharmax/Trackly) - 🪽🚀 Trackly is a smart and simple project board designed to help you track progress, stay organized, and ensure tasks get done.
 
 
 #### 🌱 My latest projects
 
 - [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🍺🧟 NextStore Ecommerce NextJs 14
 - [InstagramBot](https://github.com/rajansharmax/instagram-bot) - 🚀 Supercharge Your Instagram Growth with Our Powerful Bot Tool! 🤖
+- [Node Boilerplate](https://github.com/rajansharmax/NodeBoilerplate) - 🪽🚀 This repository provides a simple and extendable boilerplate for building Node.js applications
 
 #### 🔭 Extra 
 
