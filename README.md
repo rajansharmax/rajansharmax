@@ -2,13 +2,18 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Rajan Sharma -> Portfolio](https://github.com/rajansharmax/Portfolio) - 🪽 An open, easy, and fast **Next.js** portfolio showcasing my work as a developer.
+- [Social Scheduler](https://github.com/rajansharmax/Social-Scheduler) -🚀 A powerful and user-friendly tool to schedule and manage your social media posts across multiple platforms. Built with **React**, **Node.js**, and **MongoDB**.
+
 - [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🪽 An open, easy, fast, NextJs Ecommerce
+
 
 - [Trackly Up](https://github.com/rajansharmax/Trackly) - 🪽🚀 Trackly is a smart and simple project board designed to help you track progress, stay organized, and ensure tasks get done.
 
 
 #### 🌱 My latest projects
 
+- [rajansharmax](https://github.com/rajansharmax/Portfolio) - 🪽 An open, easy, and fast **Next.js** portfolio showcasing my work as a developer.
 - [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🍺🧟 NextStore Ecommerce NextJs 14
 - [InstagramBot](https://github.com/rajansharmax/instagram-bot) - 🚀 Supercharge Your Instagram Growth with Our Powerful Bot Tool! 🤖
 - [Node Boilerplate](https://github.com/rajansharmax/NodeBoilerplate) - 🪽🚀 This repository provides a simple and extendable boilerplate for building Node.js applications
