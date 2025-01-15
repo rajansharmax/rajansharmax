@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey 👋  ![](https://komarev.com/ghpvc/?username=rajansharmax)
 
 #### 👷 Check out what I'm currently working on
 
