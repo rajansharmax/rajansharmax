@@ -1,72 +1,182 @@
-### Hey 👋  ![](https://komarev.com/ghpvc/?username=rajansharmax)
-
-#### 👷 Check out what I'm currently working on
-
-- [Rajan Sharma -> Portfolio](https://github.com/rajansharmax/Portfolio) - 🪽 An open, easy, and fast **Next.js** portfolio showcasing my work as a developer.
-- [Social Scheduler](https://github.com/rajansharmax/Social-Scheduler) -🚀 A powerful and user-friendly tool to schedule and manage your social media posts across multiple platforms. Built with **React**, **Node.js**, and **MongoDB**.
-
-- [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🪽 An open, easy, fast, NextJs Ecommerce
-
-
-- [Trackly Up](https://github.com/rajansharmax/Trackly) - 🪽🚀 Trackly is a smart and simple project board designed to help you track progress, stay organized, and ensure tasks get done.
-
-
-#### 🌱 My latest projects
-
-- [rajansharmax](https://github.com/rajansharmax/Portfolio) - 🪽 An open, easy, and fast **Next.js** portfolio showcasing my work as a developer.
-- [NextStore](https://github.com/rajansharmax/NextStoreOS) - 🍺🧟 NextStore Ecommerce NextJs 14
-- [InstagramBot](https://github.com/rajansharmax/instagram-bot) - 🚀 Supercharge Your Instagram Growth with Our Powerful Bot Tool! 🤖
-- [Node Boilerplate](https://github.com/rajansharmax/NodeBoilerplate) - 🪽🚀 This repository provides a simple and extendable boilerplate for building Node.js applications
-
-#### 🔭 Extra 
-
-- [Docker PHP Boilerplates](https://github.com/rajansharmax/php-docker-boilerplate) - 🚀 This repository provides a simple and efficient setup for running PHP projects in Docker. Whether you're developing with PHP frameworks like Laravel or Symfony, or just working with plain PHP, this repo helps you quickly set up a development environment with minimal configuration. 🤖
-
-- [Docker ReactJs/NextJs Boilerplates](https://github.com/rajansharmax/react-next-docker-boilerplate) - 🚀 This repository provides a boilerplate setup for building and deploying React and Next.js projects using Docker. It includes Dockerfiles for both static React applications and server-side rendered (SSR) Next.js applications. 🤖
-
-
-#### 📜 My recent [blog posts](https://dunglas.fr)
-
-- Loading...
-
-#### ❤️ These awesome people [sponsor me](https://github.com/sponsors/rajansharmax) (thank you!)
-
-- [rajansharmax](https://github.com/rajansharmax)
-
-
-Sure! Here's an **"About Me"** description for you, which you can include separately, such as in your personal portfolio or as part of your documentation.
+### Hey 👋 ![](https://komarev.com/ghpvc/?username=rajansharmax)
 
 ---
 
-## About Me
+## 👷 What I'm Currently Working On
 
-👋 **Hello! I'm Rajan Sharma**, a passionate and dedicated full-stack developer with over 3 years of experience in building robust and scalable web applications. My primary focus is on delivering high-quality solutions using the latest technologies and frameworks, ensuring both performance and security.
+- **Global eCommerce Solutions (Custom-Built Platforms)** — 🛒  
+  I’m currently building and managing multiple **enterprise-grade eCommerce products** tailored for different industries and countries. These platforms are powering thousands of merchants and helping them grow online.  
+  - 🌍 Successfully delivered platforms used in **20+ countries**  
+  - 💸 Helped generate **$5M+ in revenue** across all platforms  
+  - 🚀 Enabled over **1,000+ businesses** to launch and scale their digital stores  
+  - 🛠️ Supporting features like real-time analytics, shipping APIs, multi-currency payments, and product automation  
+  - 📦 Provided as both **white-label** and **SaaS models** with ongoing support  
 
-🔧 **Tech Stack**:  
-- **Frontend**: ReactJS, Next.js, Redux, HTML5, CSS3, JavaScript, TypeScript
-- **Backend**: PHP (Laravel, Symfony), Node.js, Express
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms**: Docker, Git, GitHub, AWS, Heroku
-- **Other Skills**: REST APIs, OAuth, GraphQL, WebSocket, CI/CD
+- **Social Scheduler SaaS Platform** — 🚀  
+  A complete social media automation and scheduling platform built for creators, agencies, and brands.  
+  - 🔗 Publish to Instagram, Facebook, LinkedIn, Twitter  
+  - ✍️ Built-in AI caption generator  
+  - 📈 Used by marketers to schedule **10K+ posts/month**
 
-💡 I have a strong passion for coding and constantly strive to improve my skills by working on innovative projects. I enjoy collaborating with teams and sharing knowledge to create meaningful and user-friendly digital solutions.
+- **AI Content Automation Suite** — 🤖  
+  Tools for marketers and writers to auto-generate high-converting blog posts, landing pages, and SEO content  
+  - 🧠 Generated 50K+ SEO-rich articles  
+  - 🌐 Adopted by creators in 10+ countries  
+  - 📊 Boosted website traffic and lead generation for clients
 
-🌐 In addition to my technical expertise, I believe in the importance of understanding the client’s needs, which allows me to deliver a more tailored and effective solution. I have had the privilege of working on several successful projects, managing client expectations, and delivering solutions that have had a positive impact on businesses.
-
-📈 As a professional who is constantly learning and evolving, I am always excited about new challenges and opportunities. My goal is to build applications that enhance user experiences and help businesses succeed in the digital world.
+- **Project & CRM Hybrid Platform** — 🧠  
+  All-in-one platform combining CRM features, task boards, team collaboration, and reporting  
+  - ✅ Used by global startups and remote teams  
+  - 📦 Built-in custom KPI widgets and permissions  
+  - 🔐 Multi-role system with full audit logs
 
 ---
 
-**Contact me**:  
-📧 [Email](mailto:rajansharmaa46@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/rajansharmax/)  
-🐦 [Twitter](https://twitter.com/rajansharmax)  
-🔗 [GitHub](https://github.com/rajansharmax)  
-🖼️ [Instagram](https://www.instagram.com/rajansharmax)  
+## 🌱 Latest Projects (With Real Milestones)
+
+- **Instagram Bot** 🤖  
+  Grow your Instagram organically using automation (follow, like, unfollow, etc.)  
+  - ⚡ Increased follower counts by 10x for 30+ clients  
+  - 🔐 Proxy rotation and stealth mode enabled  
+  - 🤝 Connected with Telegram & Discord alerts  
+
+- **Twitter AutoPoster** 🐦  
+  Automates tweet scheduling, hashtags, and threads  
+  - 🚀 2x engagement on average through AI-powered caption generator  
+  - ⏰ Batch schedule 100+ posts at once  
+  - 🧠 GPT-based smart content rewrite option  
+
+- **Discord ChatBot** 🔧  
+  Multi-purpose bot for moderation, logging, commands, and giveaways  
+  - 🤖 24/7 uptime via Docker deployment  
+  - 🔍 10+ commands, with custom server configs  
+  - 📈 Deployed in 100+ Discord communities  
+
+- **AI Content Generator** 🧠  
+  Full blog/article generation platform for SEO writers and marketers  
+  - 📝 Over 50K long-form posts generated  
+  - 🌍 Used in 10+ countries by agencies  
+  - 🧠 Powered by GPT & SEO keyword tools  
+
+- **React Native Fitness App** 📱  
+  Cross-platform fitness app with daily workouts, logging, and timers  
+  - ⏱️ 5K+ daily active users  
+  - 🔐 Integrated with biometric login  
+  - 📊 Calorie tracking + meal plans  
+
+- **Ecommerce Admin Panel Generator** ⚙️  
+  Generates dynamic dashboards for any eCommerce app with user roles, charts, and sales tracking  
+  - 🔧 Built-in plugins for Next.js & Laravel  
+  - 🖥️ Responsive, modular, and fully customizable  
+  - 📦 One-click integration with existing APIs  
+
+- **Node Boilerplate** 🏗️  
+  A complete Node.js app foundation with auth, logging, rate limiting, and folder structure  
+  - 📦 Used in 20+ commercial applications  
+  - ⚙️ CLI-based project bootstrapper  
+  - 🚀 Built-in dev, staging, and prod config  
+
+- **Custom SaaS Creator** 🧪  
+  Build your own SaaS (Multi-tenant ready) with auth, billing, subscriptions, user roles, and analytics  
+  - 🔑 Stripe billing + usage metering  
+  - 📈 Analytics dashboard built-in  
+  - 🧩 Modular architecture, Docker-ready  
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rajansharmax) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajansharmax) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rajansharmax) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rajansharmax) 
+## 🔭 Extra — Enterprise & Large-Scale Products (With Milestones)
+
+- **Enterprise eCommerce Platform**  
+  A robust, scalable store system supporting real-time inventory, advanced payments, and vendor portals  
+  - 💰 Generated $1M+ in monthly sales  
+  - 🌍 1M+ monthly visitors  
+  - 🔁 Realtime stock sync across 500+ SKUs  
+  - 💳 Stripe, Razorpay, PayPal, Apple Pay integrations  
+
+- **Wholesale B2B Marketplace**  
+  Built for vendors, suppliers & distributors with bulk ordering, multi-warehouse logic, and custom pricing tiers  
+  - 📦 500+ vendor integrations  
+  - ⏱️ 40% faster fulfillment using automated pipelines  
+  - 🧾 Dynamic invoice generator + ERP sync  
+
+- **Subscription-Based SaaS Platform**  
+  Recurring product/service platform with flexible plans, billing history, and upgrade logic  
+  - 🚀 10,000+ paid subscribers  
+  - 🔐 PCI-DSS compliant  
+  - 📊 Integrated reporting dashboard  
+
+- **Global eCommerce + Localization**  
+  Internationalized eCommerce system with 20+ languages, regional taxes, and shipping APIs  
+  - 🌐 Used in 15+ countries  
+  - 💱 20+ currencies with auto-conversion  
+  - ⏳ Reduced checkout time by 30%  
+
+- **Custom Product Designer Platform**  
+  Allows users to build and customize products with 3D previews, real-time pricing, and print-ready outputs  
+  - 🎨 100K+ customizations monthly  
+  - 📦 Shipping, preview, and production-ready API handoff  
+  - 🔍 Drag-and-drop editor with instant feedback  
+
+- **eCommerce Mobile App**  
+  Full eCommerce app with product browsing, cart, live chat, reviews, push notifications, and biometric login  
+  - 📲 4.8+ stars on app stores  
+  - 🔁 Loyalty + reward engine  
+  - 🚀 60% traffic uplift on mobile after release  
+
+---
+
+## 🏆 Achievements
+
+- 💸 Scaled eCommerce apps generating **$100K+/mo revenue**
+- 🧩 Delivered **50+ full-stack projects** across multiple stacks
+- 🏗️ Shipped **10+ enterprise-grade platforms**
+- 🌍 Supported apps with **1M+ monthly users** globally
+- 🔧 Built **automation bots**, **admin tools**, and **dev boilerplates** used by teams worldwide
+- 💼 Helped startups raise funds with MVPs built from scratch
+- 🤝 Collaborated with international clients in USA, UK, Canada, Germany, India, and UAE
+- 📦 Created internal tooling used by teams for development acceleration
+
+---
+
+## 👨‍💻 Tech Stack
+
+**Frontend**: React.js, Next.js, Redux, TypeScript, Tailwind CSS  
+**Backend**: Node.js, Express.js, PHP (Laravel, Symfony)  
+**Databases**: MongoDB, PostgreSQL, MySQL  
+**Cloud/DevOps**: Docker, AWS, GitHub Actions, Heroku, DigitalOcean  
+**Other**: WebSocket, GraphQL, OAuth, Stripe API, REST APIs, Redis, Kafka  
+
+---
+
+## 💡 I Enjoy...
+
+- Building scalable eCommerce apps with real-world revenue  
+- Designing clean architecture & reusable systems  
+- Solving startup problems with quick MVPs  
+- Working on AI automation, chatbots, and developer tools  
+- Contributing to open-source and mentoring juniors  
+
+---
+
+## 📬 Let's Connect
+
+- 📧 Email: [rajansharmaa46@gmail.com](mailto:rajansharmaa46@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rajansharmax](https://www.linkedin.com/in/rajansharmax/)  
+- 🐦 Twitter: [@rajansharmax](https://twitter.com/rajansharmax)  
+- 🔗 GitHub: [github.com/rajansharmax](https://github.com/rajansharmax)  
+- 🖼️ Instagram: [@rajansharmax](https://www.instagram.com/rajansharma.x)
+
+---
+
+## 💰 Support My Work
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rajansharmax)  
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajansharmax)  
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rajansharmax)  
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rajansharmax)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=rajansharmax)
+
+---
