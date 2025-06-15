@@ -6,9 +6,9 @@
 
 - **Global eCommerce Solutions (Custom-Built Platforms)** — 🛒  
   I’m currently building and managing multiple **enterprise-grade eCommerce products** tailored for different industries and countries. These platforms are powering thousands of merchants and helping them grow online.  
-  - 🌍 Successfully delivered platforms used in **20+ countries**  
-  - 💸 Helped generate **$5M+ in revenue** across all platforms  
-  - 🚀 Enabled over **1,000+ businesses** to launch and scale their digital stores  
+  - 🌍 Successfully delivered platforms used in **10+ countries**  
+  - 💸 Helped generate **$1M+ in revenue** across all platforms  
+  - 🚀 Enabled over **100+ businesses** to launch and scale their digital stores  
   - 🛠️ Supporting features like real-time analytics, shipping APIs, multi-currency payments, and product automation  
   - 📦 Provided as both **white-label** and **SaaS models** with ongoing support  
 
@@ -23,12 +23,6 @@
   - 🧠 Generated 50K+ SEO-rich articles  
   - 🌐 Adopted by creators in 10+ countries  
   - 📊 Boosted website traffic and lead generation for clients
-
-- **Project & CRM Hybrid Platform** — 🧠  
-  All-in-one platform combining CRM features, task boards, team collaboration, and reporting  
-  - ✅ Used by global startups and remote teams  
-  - 📦 Built-in custom KPI widgets and permissions  
-  - 🔐 Multi-role system with full audit logs
 
 ---
 
@@ -45,24 +39,6 @@
   - 🚀 2x engagement on average through AI-powered caption generator  
   - ⏰ Batch schedule 100+ posts at once  
   - 🧠 GPT-based smart content rewrite option  
-
-- **Discord ChatBot** 🔧  
-  Multi-purpose bot for moderation, logging, commands, and giveaways  
-  - 🤖 24/7 uptime via Docker deployment  
-  - 🔍 10+ commands, with custom server configs  
-  - 📈 Deployed in 100+ Discord communities  
-
-- **AI Content Generator** 🧠  
-  Full blog/article generation platform for SEO writers and marketers  
-  - 📝 Over 50K long-form posts generated  
-  - 🌍 Used in 10+ countries by agencies  
-  - 🧠 Powered by GPT & SEO keyword tools  
-
-- **React Native Fitness App** 📱  
-  Cross-platform fitness app with daily workouts, logging, and timers  
-  - ⏱️ 5K+ daily active users  
-  - 🔐 Integrated with biometric login  
-  - 📊 Calorie tracking + meal plans  
 
 - **Ecommerce Admin Panel Generator** ⚙️  
   Generates dynamic dashboards for any eCommerce app with user roles, charts, and sales tracking  
@@ -99,12 +75,6 @@
   - ⏱️ 40% faster fulfillment using automated pipelines  
   - 🧾 Dynamic invoice generator + ERP sync  
 
-- **Subscription-Based SaaS Platform**  
-  Recurring product/service platform with flexible plans, billing history, and upgrade logic  
-  - 🚀 10,000+ paid subscribers  
-  - 🔐 PCI-DSS compliant  
-  - 📊 Integrated reporting dashboard  
-
 - **Global eCommerce + Localization**  
   Internationalized eCommerce system with 20+ languages, regional taxes, and shipping APIs  
   - 🌐 Used in 15+ countries  
@@ -117,23 +87,23 @@
   - 📦 Shipping, preview, and production-ready API handoff  
   - 🔍 Drag-and-drop editor with instant feedback  
 
-- **eCommerce Mobile App**  
-  Full eCommerce app with product browsing, cart, live chat, reviews, push notifications, and biometric login  
-  - 📲 4.8+ stars on app stores  
+- **eCommerce cloths**  
+  Full eCommerce custom cloths website with product browsing, customize designing, cart, live chat, reviews, push notifications, and 2FA login  
+  - 📲 10k+ active users 
   - 🔁 Loyalty + reward engine  
-  - 🚀 60% traffic uplift on mobile after release  
+  - 🚀 60% traffic uplift after release  
 
 ---
 
 ## 🏆 Achievements
 
 - 💸 Scaled eCommerce apps generating **$100K+/mo revenue**
-- 🧩 Delivered **50+ full-stack projects** across multiple stacks
+- 🧩 Delivered **20+ full-stack projects** across multiple stacks
 - 🏗️ Shipped **10+ enterprise-grade platforms**
 - 🌍 Supported apps with **1M+ monthly users** globally
 - 🔧 Built **automation bots**, **admin tools**, and **dev boilerplates** used by teams worldwide
 - 💼 Helped startups raise funds with MVPs built from scratch
-- 🤝 Collaborated with international clients in USA, UK, Canada, Germany, India, and UAE
+- 🤝 Collaborated with international clients in India, USA, UK, Canada, Germany, and UAE
 - 📦 Created internal tooling used by teams for development acceleration
 
 ---
@@ -161,9 +131,9 @@
 ## 📬 Let's Connect
 
 - 📧 Email: [rajansharmaa46@gmail.com](mailto:rajansharmaa46@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rajansharmax](https://www.linkedin.com/in/rajansharmax/)  
+- 💼 LinkedIn: [@rajansharmax](https://www.linkedin.com/in/rajansharmax/)  
 - 🐦 Twitter: [@rajansharmax](https://twitter.com/rajansharmax)  
-- 🔗 GitHub: [github.com/rajansharmax](https://github.com/rajansharmax)  
+- 🔗 GitHub: [@rajansharmax](https://github.com/rajansharmax)  
 - 🖼️ Instagram: [@rajansharmax](https://www.instagram.com/rajansharma.x)
 
 ---
