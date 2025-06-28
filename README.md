@@ -75,9 +75,9 @@
   - 🧾 Dynamic invoice generator + ERP sync  
 
 - **Global eCommerce + Localization**  
-  Internationalized eCommerce system with 20+ languages, regional taxes, and shipping APIs  
-  - 🌐 Used in 15+ countries  
-  - 💱 20+ currencies with auto-conversion  
+  Internationalized eCommerce system with 5+ languages, regional taxes, and shipping APIs  
+  - 🌐 Used in 5+ countries  
+  - 💱 5+ currencies with auto-conversion  
   - ⏳ Reduced checkout time by 30%  
 
 - **Custom Product Designer Platform**  
