@@ -8,7 +8,7 @@
   I’m currently building and managing multiple **enterprise-grade eCommerce products** tailored for different industries and countries. These platforms are powering thousands of merchants and helping them grow online.  
   - 🌍 Successfully delivered platforms used in **5+ countries**  
   - 💸 Helped generate **$1M+ in revenue** across all platforms  
-  - 🚀 Enabled over **10+ businesses** to launch and scale their digital stores  
+  - 🚀 Enabled over **5+ businesses** to launch and scale their digital stores  
   - 🛠️ Supporting features like real-time analytics, shipping APIs, multi-currency payments, and product automation  
   - 📦 Provided as both **white-label** and **SaaS models** with ongoing support  
 
