@@ -21,7 +21,6 @@
 - **AI Content Automation Suite** — 🤖  
   Tools for marketers and writers to auto-generate high-converting blog posts, landing pages, and SEO content  
   - 🧠 Generated 50K+ SEO-rich articles  
-  - 🌐 Adopted by creators in 10+ countries  
   - 📊 Boosted website traffic and lead generation for clients
 
 ---
